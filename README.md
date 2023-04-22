@@ -6,7 +6,7 @@ Hi! We are a team consisting of Lim Sui Kiat and Marcus Yeo, currently Year 2 Co
 If you're interested, you can see our [project video](https://www.youtube.com/watch?v=VFHYOmRooUY&ab_channel=MARCUSYEO) and [slide deck](https://www.canva.com/design/DAFgudHeVtk/eeOHe96Y1mWe2a6eJTeXXQ/edit?utm_content=DAFgudHeVtk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) here!
 
 ## For a detailed walkthrough, please view the source code in order form:
-[Full Code](fullcode.com)
+[Full Code](https://github.com/sktlim/PairsTradingExploration/blob/main/DSAI_Project.ipynb)
 1. Problem Definition
 * README.md
 2. Data Collection and Preperation
