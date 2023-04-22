@@ -8,7 +8,7 @@ If you're interested, you can see our [project video](https://www.youtube.com/wa
 ## For a detailed walkthrough, please view the source code in order form:
 [Full Code](https://github.com/sktlim/PairsTradingExploration/blob/main/DSAI_Project.ipynb)
 1. Problem Definition
-* README.md
+* [README.md](https://github.com/sktlim/PairsTradingExploration/blob/main/README.md)
 2. Data Collection and Preperation
 
 The notebook in this portion is used to extract data from S&P 500 symbols list to find cointegrated pairs of stocks to conduct our pairs trading strategy upon. After obtaining the data, we use the Missingno library for data cleaning to remove any NULL values. We then go on to find cointegrated pairs. For our clustering task, we are interested in the volatility and performance of stocks and thus we want to obtain the variance and returns on an annual level. Data scaling is then used to reduce noise. We then apply K-Means clustering to identify groups of stocks with their nearest mean. Using the elbow method, we identified that the optimal number of clusters that we should have is around 6. We then analyzed each cluster to determine highly cointegrated pairs
